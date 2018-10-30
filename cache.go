@@ -1,4 +1,4 @@
-package model
+package rediscache 
 
 import (
 	"encoding/json"
